@@ -39,9 +39,13 @@ TXT 合并精灵 - MergeTXT GUI
 ## 📁 文件结构说明
 
 project_root/
+
 │
+
 ├── merge_gui.exe # 主程序（绿色免安装）
+
 ├── icon/ # 图标资源目录（含 app_icon.ico）
+
 └── README.md # 当前说明文档
 
 
